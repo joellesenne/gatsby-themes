@@ -1,3 +1,3 @@
 module.exports = {
-	plugins: ["@joellesenne/gatsby-theme-style"],
+  plugins: [`@joellesenne/gatsby-theme-style`],
 }
