@@ -1,6 +1,7 @@
 {
   "name": "gatsby-starter-lab",
   "version": "1.0.0",
+  "author": "Joël lesenne",
   "license": "MIT",
   "main": "index.js",
   "scripts": {
